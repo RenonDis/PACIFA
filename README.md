@@ -1,2 +1,2 @@
 # PACIFIA
-PAssive-infrared Canine Incursion Frodo I'm-going-on-adventure Alert
+PAssive-infrared Canine Incursion Frodo I'm-going-on-an-adventure Alert
